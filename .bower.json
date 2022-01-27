@@ -34,5 +34,15 @@
   },
   "devDependencies": {
     "angular-scenario": ">= 1.2.0"
-  }
+  },
+  "_release": "0.7.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.7.1",
+    "commit": "769904cd53a38ed0631bf4bb04953d374defba0b"
+  },
+  "_source": "https://github.com/sebastianha/angular-bootstrap-multiselect.git",
+  "_target": "^0.7.1",
+  "_originalSource": "angular-bootstrap-multiselect",
+  "_direct": true
 }
